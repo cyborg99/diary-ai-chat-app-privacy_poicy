@@ -1,0 +1,1 @@
+# diary-ai-chat-app-privacy_poicy
