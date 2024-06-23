@@ -49,5 +49,5 @@
 
 ## お問い合わせ
 
-プライバシーポリシーに関するご質問やご意見がある場合は、以下の連絡先までお問い合わせください：
-- **メールアドレス**: support@example.com
+プライバシーポリシーに関するご質問やご意見がある場合は、 [こちら](https://docs.google.com/forms/d/1iQAL924rR2eN78benL6ClnphQWl_ZFAfAbyQywCM83U/viewform?edit_requested=true) までお問い合わせください
+
